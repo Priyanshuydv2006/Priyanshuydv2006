@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Yadav</h1>
 <h3 align="center">A passionate aspiring Embedded/electrical engineer from India</h3>
 
-- 🔭 I’m currently working on **Bluetooth based remote controlled car**
+- 🔭 I’m currently working on **EE/Embedded and software projects**
 
-- 👯 I’m looking to collaborate on **CORE electricals based projects**
+- 👯 I’m looking to collaborate with **folks who love hardware**
 
 - 👨‍💻 All of my projects are available at [https://priyanshuydv2006.github.io/portfolio/#home](https://priyanshuydv2006.github.io/portfolio/#home)
 
