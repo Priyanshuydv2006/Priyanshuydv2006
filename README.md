@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with **folks who love hardware**
 
-- 👨‍💻 All of my projects are available at [https://priyanshuydv2006.github.io/portfolio/#home](https://portfolio-priyanshuydv2006.vercel.app]([https://priyanshuydv2006.github.io/portfolio/#home](https://portfolio-priyanshuydv2006.vercel.app))
+- 👨‍💻 All of my projects are available at [https://priyanshuydv2006.github.io/portfolio/#home](https://portfolio-priyanshuydv2006.vercel.app))
 
 - 💬 Ask me about **Embedded systems ,Microcontrollers,C++**
 
